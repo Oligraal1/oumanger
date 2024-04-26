@@ -1,0 +1,70 @@
+header {
+    background-color: #09b3bc;
+    margin:0 auto;
+    text-align: center;
+    padding: 0 0 50px;
+}
+.background {
+    background-image: url('./images/fast-food.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 150px 0;
+    margin: 0 auto;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 2.2em;
+    color:rgb(173, 240, 245);
+    font-family: cursive;
+}
+.date {
+    margin: 25px auto;
+}
+.date p {
+    font-size:1.7rem;
+    text-align: right;
+}
+form {
+    margin: 50px auto 100px;
+}
+.select {
+    margin: 25px auto;
+    text-align: center;
+}
+label {
+    font-size: 1.2rem;
+}
+select { 
+    margin: 0 15px;
+    padding: 10px 5px;
+    font-size: 1.2rem;
+}
+button {
+    display:block;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 25px auto;
+}
+#result p {
+    font-size: 1.8rem;
+}
+#result span {
+    color: #09b3bc;
+}
+footer {
+    margin: 200px auto 0;
+    text-align: center;
+    padding:100px 50px;
+    background-color: #09b3bc;
+}
+footer p {
+    text-align: center;
+    font-size:0.9rem;
+}
+#heart {
+    color:red;
+}
